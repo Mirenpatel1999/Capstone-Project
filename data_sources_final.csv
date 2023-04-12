@@ -1,0 +1,25 @@
+id,inputs,assets_id,state,assets
+17317,timer,2842,POWER ON,Press 2
+17318,count,2842,POWER ON,Press 2
+17319,state,2842,POWER ON,Press 2
+17320,timer,2842,CLAMP CLOSED,Press 2
+17321,count,2842,CLAMP CLOSED,Press 2
+17322,state,2842,CLAMP CLOSED,Press 2
+17323,timer,2842,SPARE,Press 2
+17324,count,2842,SPARE,Press 2
+17325,state,2842,SPARE,Press 2
+17326,timer,2842,SPARE,Press 2
+17327,count,2842,SPARE,Press 2
+17328,state,2842,SPARE,Press 2
+17605,timer,2962,POWER ON,Press 1
+17606,count,2962,POWER ON,Press 1
+17607,state,2962,POWER ON,Press 1
+17608,timer,2962,CLAMP CLOSED,Press 1
+17609,count,2962,CLAMP CLOSED,Press 1
+17610,state,2962,CLAMP CLOSED,Press 1
+17611,timer,2962,SPARE,Press 1
+17612,count,2962,SPARE,Press 1
+17613,state,2962,SPARE,Press 1
+17614,timer,2962,SPARE,Press 1
+17615,count,2962,SPARE,Press 1
+17616,state,2962,SPARE,Press 1

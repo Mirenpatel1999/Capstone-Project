@@ -1,0 +1,576 @@
+data_source_id,count,attached_at,name
+2842,1,1/3/2023 12:14,QC painted parts
+2842,2,1/17/2023 4:57,QC painted parts
+2842,2,1/17/2023 4:58,QC painted parts
+2842,1,1/17/2023 13:33,QC painted parts
+2842,1,1/20/2023 2:05,QC painted parts
+2842,1,1/20/2023 2:36,QC painted parts
+2842,1,1/20/2023 18:30,QC painted parts
+2842,1,1/20/2023 22:31,QC painted parts
+2842,1,1/23/2023 5:29,QC painted parts
+2842,1,1/23/2023 12:48,QC painted parts
+2842,1,1/23/2023 22:00,QC painted parts
+2842,1,1/30/2023 9:44,QC painted parts
+2842,1,1/30/2023 13:06,QC painted parts
+2842,1,1/30/2023 22:53,QC painted parts
+2842,2,1/31/2023 4:33,QC painted parts
+2842,1,1/31/2023 5:09,QC painted parts
+2842,1,1/3/2023 12:14,Dimensional
+2842,1,1/3/2023 20:19,Dimensional
+2842,1,1/4/2023 13:27,Dimensional
+2842,1,1/4/2023 13:27,Dimensional
+2842,1,1/6/2023 20:41,Dimensional
+2842,1,1/6/2023 20:41,Dimensional
+2842,1,1/9/2023 6:59,Dimensional
+2842,1,1/9/2023 6:59,Dimensional
+2842,1,1/12/2023 12:57,Dimensional
+2842,1,1/12/2023 22:42,Dimensional
+2842,1,1/12/2023 22:42,Dimensional
+2842,1,1/16/2023 12:38,Dimensional
+2842,1,1/16/2023 12:38,Dimensional
+2842,1,1/17/2023 14:16,Dimensional
+2842,1,1/18/2023 5:25,Dimensional
+2842,1,1/18/2023 5:25,Dimensional
+2842,1,1/20/2023 18:30,Dimensional
+2842,1,1/23/2023 18:43,Dimensional
+2842,1,1/23/2023 20:15,Dimensional
+2842,1,1/25/2023 5:15,Dimensional
+2842,1,1/25/2023 20:25,Dimensional
+2842,1,1/26/2023 13:18,Dimensional
+2842,1,1/30/2023 9:44,Dimensional
+2842,1,1/31/2023 4:33,Dimensional
+2842,1,1/31/2023 5:09,Dimensional
+2842,1,1/3/2023 12:33,Flow lines
+2842,1,1/20/2023 5:37,Flow lines
+2842,1,1/20/2023 5:38,Flow lines
+2842,1,1/20/2023 5:39,Flow lines
+2842,1,1/20/2023 5:42,Flow lines
+2842,1,1/20/2023 5:43,Flow lines
+2842,1,1/20/2023 5:44,Flow lines
+2842,1,1/20/2023 5:46,Flow lines
+2842,5,1/20/2023 6:14,Flow lines
+2842,3,1/20/2023 6:16,Flow lines
+2842,1,1/20/2023 6:23,Flow lines
+2842,1,1/20/2023 6:24,Flow lines
+2842,1,1/20/2023 6:25,Flow lines
+2842,2,1/20/2023 6:32,Flow lines
+2842,1,1/20/2023 6:33,Flow lines
+2842,1,1/20/2023 6:40,Flow lines
+2842,2,1/20/2023 6:43,Flow lines
+2842,2,1/20/2023 6:46,Flow lines
+2842,1,1/20/2023 6:48,Flow lines
+2842,1,1/20/2023 23:14,Flow lines
+2842,1,1/20/2023 23:27,Flow lines
+2842,1,1/20/2023 23:29,Flow lines
+2842,1,1/20/2023 23:30,Flow lines
+2842,1,1/20/2023 23:32,Flow lines
+2842,1,1/23/2023 5:22,Flow lines
+2842,1,1/23/2023 5:25,Flow lines
+2842,3,1/24/2023 7:35,Flow lines
+2842,1,1/3/2023 12:40,Bumps/Air Bubbles
+2842,1,1/3/2023 12:42,Bumps/Air Bubbles
+2842,1,1/3/2023 12:51,Bumps/Air Bubbles
+2842,1,1/3/2023 13:36,Bumps/Air Bubbles
+2842,1,1/3/2023 14:08,Bumps/Air Bubbles
+2842,1,1/3/2023 14:18,Bumps/Air Bubbles
+2842,1,1/3/2023 14:40,Bumps/Air Bubbles
+2842,1,1/3/2023 17:46,Bumps/Air Bubbles
+2842,1,1/3/2023 19:39,Bumps/Air Bubbles
+2842,3,1/12/2023 3:47,Bumps/Air Bubbles
+2842,1,1/12/2023 3:48,Bumps/Air Bubbles
+2842,2,1/12/2023 3:51,Bumps/Air Bubbles
+2842,1,1/12/2023 3:54,Bumps/Air Bubbles
+2842,1,1/12/2023 3:55,Bumps/Air Bubbles
+2842,1,1/12/2023 3:57,Bumps/Air Bubbles
+2842,1,1/12/2023 3:57,Bumps/Air Bubbles
+2842,1,1/12/2023 3:59,Bumps/Air Bubbles
+2842,1,1/12/2023 4:01,Bumps/Air Bubbles
+2842,1,1/12/2023 4:04,Bumps/Air Bubbles
+2842,1,1/12/2023 4:05,Bumps/Air Bubbles
+2842,1,1/12/2023 4:11,Bumps/Air Bubbles
+2842,1,1/12/2023 4:15,Bumps/Air Bubbles
+2842,1,1/12/2023 8:16,Bumps/Air Bubbles
+2842,1,1/12/2023 8:50,Bumps/Air Bubbles
+2842,1,1/12/2023 8:59,Bumps/Air Bubbles
+2842,1,1/12/2023 10:33,Bumps/Air Bubbles
+2842,1,1/12/2023 10:56,Bumps/Air Bubbles
+2842,1,1/12/2023 11:01,Bumps/Air Bubbles
+2842,1,1/12/2023 13:10,Bumps/Air Bubbles
+2842,1,1/12/2023 13:23,Bumps/Air Bubbles
+2842,1,1/17/2023 13:42,Bumps/Air Bubbles
+2842,1,1/17/2023 13:48,Bumps/Air Bubbles
+2842,1,1/17/2023 13:58,Bumps/Air Bubbles
+2842,-3,1/17/2023 13:59,Bumps/Air Bubbles
+2842,1,1/17/2023 14:00,Bumps/Air Bubbles
+2842,1,1/17/2023 14:02,Bumps/Air Bubbles
+2842,1,1/17/2023 14:07,Bumps/Air Bubbles
+2842,-1,1/17/2023 14:09,Bumps/Air Bubbles
+2842,2,1/17/2023 14:10,Bumps/Air Bubbles
+2842,-1,1/17/2023 14:11,Bumps/Air Bubbles
+2842,1,1/17/2023 15:28,Bumps/Air Bubbles
+2842,1,1/17/2023 18:34,Bumps/Air Bubbles
+2842,1,1/20/2023 2:15,Bumps/Air Bubbles
+2842,1,1/20/2023 2:16,Bumps/Air Bubbles
+2842,1,1/20/2023 2:21,Bumps/Air Bubbles
+2842,1,1/20/2023 2:47,Bumps/Air Bubbles
+2842,1,1/20/2023 2:51,Bumps/Air Bubbles
+2842,1,1/20/2023 2:54,Bumps/Air Bubbles
+2842,1,1/20/2023 2:56,Bumps/Air Bubbles
+2842,1,1/20/2023 2:59,Bumps/Air Bubbles
+2842,1,1/20/2023 3:01,Bumps/Air Bubbles
+2842,1,1/20/2023 3:03,Bumps/Air Bubbles
+2842,1,1/20/2023 3:17,Bumps/Air Bubbles
+2842,1,1/20/2023 3:19,Bumps/Air Bubbles
+2842,1,1/20/2023 3:19,Bumps/Air Bubbles
+2842,1,1/20/2023 3:21,Bumps/Air Bubbles
+2842,1,1/20/2023 3:22,Bumps/Air Bubbles
+2842,1,1/20/2023 3:26,Bumps/Air Bubbles
+2842,1,1/20/2023 3:27,Bumps/Air Bubbles
+2842,1,1/20/2023 3:30,Bumps/Air Bubbles
+2842,1,1/20/2023 3:39,Bumps/Air Bubbles
+2842,1,1/20/2023 3:50,Bumps/Air Bubbles
+2842,3,1/20/2023 3:53,Bumps/Air Bubbles
+2842,1,1/20/2023 4:00,Bumps/Air Bubbles
+2842,1,1/20/2023 4:01,Bumps/Air Bubbles
+2842,1,1/20/2023 4:03,Bumps/Air Bubbles
+2842,1,1/20/2023 4:04,Bumps/Air Bubbles
+2842,1,1/20/2023 4:10,Bumps/Air Bubbles
+2842,1,1/20/2023 4:19,Bumps/Air Bubbles
+2842,2,1/20/2023 5:09,Bumps/Air Bubbles
+2842,1,1/20/2023 5:09,Bumps/Air Bubbles
+2842,1,1/20/2023 5:10,Bumps/Air Bubbles
+2842,1,1/20/2023 5:11,Bumps/Air Bubbles
+2842,1,1/20/2023 5:12,Bumps/Air Bubbles
+2842,1,1/20/2023 5:15,Bumps/Air Bubbles
+2842,1,1/20/2023 5:31,Bumps/Air Bubbles
+2842,1,1/20/2023 5:40,Bumps/Air Bubbles
+2842,1,1/20/2023 5:41,Bumps/Air Bubbles
+2842,1,1/20/2023 5:47,Bumps/Air Bubbles
+2842,1,1/20/2023 5:48,Bumps/Air Bubbles
+2842,1,1/20/2023 5:49,Bumps/Air Bubbles
+2842,1,1/20/2023 5:49,Bumps/Air Bubbles
+2842,1,1/20/2023 5:58,Bumps/Air Bubbles
+2842,1,1/20/2023 6:20,Bumps/Air Bubbles
+2842,1,1/20/2023 6:21,Bumps/Air Bubbles
+2842,1,1/20/2023 6:24,Bumps/Air Bubbles
+2842,4,1/20/2023 6:38,Bumps/Air Bubbles
+2842,1,1/20/2023 6:38,Bumps/Air Bubbles
+2842,1,1/20/2023 6:41,Bumps/Air Bubbles
+2842,1,1/20/2023 6:48,Bumps/Air Bubbles
+2842,2,1/20/2023 7:03,Bumps/Air Bubbles
+2842,1,1/20/2023 7:05,Bumps/Air Bubbles
+2842,1,1/20/2023 7:08,Bumps/Air Bubbles
+2842,1,1/20/2023 7:11,Bumps/Air Bubbles
+2842,1,1/20/2023 7:11,Bumps/Air Bubbles
+2842,1,1/20/2023 7:20,Bumps/Air Bubbles
+2842,1,1/20/2023 8:09,Bumps/Air Bubbles
+2842,1,1/20/2023 8:19,Bumps/Air Bubbles
+2842,1,1/20/2023 8:28,Bumps/Air Bubbles
+2842,1,1/20/2023 8:30,Bumps/Air Bubbles
+2842,1,1/20/2023 8:33,Bumps/Air Bubbles
+2842,1,1/20/2023 9:00,Bumps/Air Bubbles
+2842,1,1/20/2023 9:04,Bumps/Air Bubbles
+2842,1,1/20/2023 9:08,Bumps/Air Bubbles
+2842,1,1/20/2023 9:11,Bumps/Air Bubbles
+2842,1,1/20/2023 9:33,Bumps/Air Bubbles
+2842,1,1/20/2023 9:34,Bumps/Air Bubbles
+2842,1,1/20/2023 9:35,Bumps/Air Bubbles
+2842,1,1/20/2023 9:48,Bumps/Air Bubbles
+2842,2,1/20/2023 9:59,Bumps/Air Bubbles
+2842,4,1/20/2023 13:10,Bumps/Air Bubbles
+2842,4,1/20/2023 13:42,Bumps/Air Bubbles
+2842,1,1/23/2023 17:43,Bumps/Air Bubbles
+2842,5,1/23/2023 21:37,Bumps/Air Bubbles
+2842,1,1/23/2023 21:39,Bumps/Air Bubbles
+2842,1,1/23/2023 21:40,Bumps/Air Bubbles
+2842,1,1/23/2023 21:44,Bumps/Air Bubbles
+2842,1,1/23/2023 21:51,Bumps/Air Bubbles
+2842,2,1/23/2023 21:55,Bumps/Air Bubbles
+2842,2,1/23/2023 22:00,Bumps/Air Bubbles
+2842,1,1/23/2023 22:06,Bumps/Air Bubbles
+2842,2,1/23/2023 22:10,Bumps/Air Bubbles
+2842,3,1/23/2023 22:15,Bumps/Air Bubbles
+2842,1,1/23/2023 22:34,Bumps/Air Bubbles
+2842,2,1/23/2023 22:39,Bumps/Air Bubbles
+2842,1,1/23/2023 22:40,Bumps/Air Bubbles
+2842,1,1/23/2023 22:59,Bumps/Air Bubbles
+2842,1,1/23/2023 23:21,Bumps/Air Bubbles
+2842,1,1/23/2023 23:24,Bumps/Air Bubbles
+2842,1,1/23/2023 23:35,Bumps/Air Bubbles
+2842,1,1/23/2023 23:44,Bumps/Air Bubbles
+2842,1,1/23/2023 23:47,Bumps/Air Bubbles
+2842,2,1/23/2023 23:59,Bumps/Air Bubbles
+2842,1,1/24/2023 0:19,Bumps/Air Bubbles
+2842,1,1/24/2023 0:39,Bumps/Air Bubbles
+2842,1,1/24/2023 0:45,Bumps/Air Bubbles
+2842,1,1/24/2023 1:11,Bumps/Air Bubbles
+2842,1,1/24/2023 1:12,Bumps/Air Bubbles
+2842,1,1/24/2023 1:47,Bumps/Air Bubbles
+2842,1,1/24/2023 1:52,Bumps/Air Bubbles
+2842,1,1/24/2023 2:18,Bumps/Air Bubbles
+2842,1,1/24/2023 2:19,Bumps/Air Bubbles
+2842,1,1/24/2023 2:24,Bumps/Air Bubbles
+2842,1,1/24/2023 2:35,Bumps/Air Bubbles
+2842,1,1/24/2023 2:36,Bumps/Air Bubbles
+2842,1,1/24/2023 2:38,Bumps/Air Bubbles
+2842,1,1/24/2023 2:41,Bumps/Air Bubbles
+2842,1,1/24/2023 2:47,Bumps/Air Bubbles
+2842,1,1/24/2023 2:57,Bumps/Air Bubbles
+2842,1,1/24/2023 3:22,Bumps/Air Bubbles
+2842,1,1/24/2023 3:37,Bumps/Air Bubbles
+2842,1,1/24/2023 3:43,Bumps/Air Bubbles
+2842,1,1/24/2023 3:45,Bumps/Air Bubbles
+2842,1,1/24/2023 4:31,Bumps/Air Bubbles
+2842,2,1/24/2023 5:48,Bumps/Air Bubbles
+2842,1,1/24/2023 5:49,Bumps/Air Bubbles
+2842,2,1/24/2023 7:23,Bumps/Air Bubbles
+2842,1,1/24/2023 7:38,Bumps/Air Bubbles
+2842,5,1/24/2023 7:42,Bumps/Air Bubbles
+2842,2,1/24/2023 7:43,Bumps/Air Bubbles
+2842,2,1/24/2023 7:46,Bumps/Air Bubbles
+2842,2,1/24/2023 7:48,Bumps/Air Bubbles
+2842,1,1/24/2023 7:50,Bumps/Air Bubbles
+2842,2,1/24/2023 7:54,Bumps/Air Bubbles
+2842,1,1/24/2023 7:55,Bumps/Air Bubbles
+2842,1,1/24/2023 8:22,Bumps/Air Bubbles
+2842,1,1/24/2023 8:25,Bumps/Air Bubbles
+2842,1,1/24/2023 8:26,Bumps/Air Bubbles
+2842,1,1/24/2023 8:28,Bumps/Air Bubbles
+2842,1,1/24/2023 8:30,Bumps/Air Bubbles
+2842,2,1/24/2023 9:36,Bumps/Air Bubbles
+2842,3,1/24/2023 9:39,Bumps/Air Bubbles
+2842,10,1/24/2023 10:15,Bumps/Air Bubbles
+2842,-2,1/24/2023 10:17,Bumps/Air Bubbles
+2842,1,1/24/2023 12:23,Bumps/Air Bubbles
+2842,1,1/24/2023 13:30,Bumps/Air Bubbles
+2842,1,1/24/2023 17:57,Bumps/Air Bubbles
+2842,1,1/25/2023 11:49,Bumps/Air Bubbles
+2842,1,1/31/2023 4:53,Bumps/Air Bubbles
+2842,1,1/31/2023 4:55,Bumps/Air Bubbles
+2842,1,1/3/2023 17:07,Short shot
+2842,1,1/4/2023 1:28,Start up scrap
+2842,1,1/4/2023 20:13,Start up scrap
+2842,1,1/4/2023 20:13,Start up scrap
+2842,1,1/6/2023 4:07,Start up scrap
+2842,1,1/6/2023 4:07,Start up scrap
+2842,1,1/6/2023 4:08,Start up scrap
+2842,1,1/6/2023 4:08,Start up scrap
+2842,2,1/6/2023 5:59,Start up scrap
+2842,2,1/6/2023 5:59,Start up scrap
+2842,1,1/6/2023 6:00,Start up scrap
+2842,1,1/6/2023 6:00,Start up scrap
+2842,1,1/6/2023 6:01,Start up scrap
+2842,1,1/6/2023 6:02,Start up scrap
+2842,1,1/6/2023 16:02,Start up scrap
+2842,1,1/6/2023 16:02,Start up scrap
+2842,1,1/6/2023 16:05,Start up scrap
+2842,1,1/6/2023 16:05,Start up scrap
+2842,2,1/7/2023 1:11,Start up scrap
+2842,2,1/7/2023 1:11,Start up scrap
+2842,2,1/12/2023 4:31,Start up scrap
+2842,7,1/12/2023 21:05,Start up scrap
+2842,7,1/12/2023 21:05,Start up scrap
+2842,2,1/13/2023 7:45,Start up scrap
+2842,2,1/13/2023 7:45,Start up scrap
+2842,2,1/13/2023 7:52,Start up scrap
+2842,2,1/13/2023 7:52,Start up scrap
+2842,1,1/13/2023 14:29,Start up scrap
+2842,1,1/13/2023 14:30,Start up scrap
+2842,1,1/16/2023 6:35,Start up scrap
+2842,1,1/16/2023 6:35,Start up scrap
+2842,1,1/16/2023 6:37,Start up scrap
+2842,1,1/16/2023 6:37,Start up scrap
+2842,1,1/16/2023 10:41,Start up scrap
+2842,1,1/16/2023 10:41,Start up scrap
+2842,1,1/16/2023 15:14,Start up scrap
+2842,1,1/16/2023 15:14,Start up scrap
+2842,2,1/17/2023 6:01,Start up scrap
+2842,2,1/17/2023 6:01,Start up scrap
+2842,2,1/17/2023 6:02,Start up scrap
+2842,2,1/17/2023 6:02,Start up scrap
+2842,2,1/17/2023 8:32,Start up scrap
+2842,2,1/17/2023 8:33,Start up scrap
+2842,2,1/17/2023 13:48,Start up scrap
+2842,-2,1/17/2023 13:48,Start up scrap
+2842,2,1/17/2023 14:16,Start up scrap
+2842,-1,1/17/2023 14:22,Start up scrap
+2842,-2,1/17/2023 14:35,Start up scrap
+2842,1,1/17/2023 14:36,Start up scrap
+2842,1,1/18/2023 1:52,Start up scrap
+2842,1,1/18/2023 1:52,Start up scrap
+2842,91,1/20/2023 1:41,Start up scrap
+2842,1,1/20/2023 4:50,Start up scrap
+2842,1,1/20/2023 5:34,Start up scrap
+2842,1,1/20/2023 5:35,Start up scrap
+2842,1,1/20/2023 5:36,Start up scrap
+2842,3,1/20/2023 12:25,Start up scrap
+2842,1,1/20/2023 20:25,Start up scrap
+2842,1,1/20/2023 20:26,Start up scrap
+2842,1,1/20/2023 20:47,Start up scrap
+2842,1,1/20/2023 22:03,Start up scrap
+2842,1,1/20/2023 23:27,Start up scrap
+2842,1,1/23/2023 5:03,Start up scrap
+2842,1,1/23/2023 5:04,Start up scrap
+2842,1,1/23/2023 5:12,Start up scrap
+2842,1,1/23/2023 5:13,Start up scrap
+2842,1,1/23/2023 5:15,Start up scrap
+2842,1,1/23/2023 5:16,Start up scrap
+2842,1,1/23/2023 5:43,Start up scrap
+2842,2,1/23/2023 8:21,Start up scrap
+2842,5,1/23/2023 17:57,Start up scrap
+2842,1,1/23/2023 20:03,Start up scrap
+2842,1,1/23/2023 22:23,Start up scrap
+2842,1,1/24/2023 1:46,Start up scrap
+2842,1,1/24/2023 2:55,Start up scrap
+2842,1,1/24/2023 2:56,Start up scrap
+2842,3,1/24/2023 8:18,Start up scrap
+2842,1,1/26/2023 12:32,Start up scrap
+2842,2,1/26/2023 12:33,Start up scrap
+2842,1,1/26/2023 12:33,Start up scrap
+2842,3,1/26/2023 12:41,Start up scrap
+2842,3,1/26/2023 12:41,Start up scrap
+2842,1,1/26/2023 12:45,Start up scrap
+2842,1,1/26/2023 12:45,Start up scrap
+2842,1,1/26/2023 12:46,Start up scrap
+2842,1,1/26/2023 12:46,Start up scrap
+2842,2,1/26/2023 12:49,Start up scrap
+2842,2,1/26/2023 12:49,Start up scrap
+2842,2,1/26/2023 12:51,Start up scrap
+2842,2,1/26/2023 12:51,Start up scrap
+2842,2,1/26/2023 12:53,Start up scrap
+2842,2,1/26/2023 12:53,Start up scrap
+2842,2,1/26/2023 12:59,Start up scrap
+2842,1,1/26/2023 12:59,Start up scrap
+2842,1,1/26/2023 12:59,Start up scrap
+2842,1,1/26/2023 23:11,Start up scrap
+2842,1,1/26/2023 23:11,Start up scrap
+2842,2,1/27/2023 9:05,Start up scrap
+2842,2,1/27/2023 9:05,Start up scrap
+2842,2,1/27/2023 9:20,Start up scrap
+2842,2,1/27/2023 9:20,Start up scrap
+2842,1,1/27/2023 9:50,Start up scrap
+2842,1,1/27/2023 9:50,Start up scrap
+2842,2,1/30/2023 7:44,Start up scrap
+2842,4,1/31/2023 4:40,Start up scrap
+2842,4,1/31/2023 4:44,Start up scrap
+2842,4,1/31/2023 6:41,Start up scrap
+2842,1,1/31/2023 22:33,Start up scrap
+2842,1,1/31/2023 22:34,Start up scrap
+2842,1,1/4/2023 13:59,Splay
+2842,1,1/4/2023 15:00,Splay
+2842,1,1/4/2023 15:00,Splay
+2842,1,1/4/2023 15:05,Splay
+2842,1,1/6/2023 6:20,Splay
+2842,1,1/6/2023 6:20,Splay
+2842,1,1/6/2023 7:10,Splay
+2842,1,1/6/2023 7:48,Splay
+2842,1,1/6/2023 7:49,Splay
+2842,1,1/6/2023 8:19,Splay
+2842,1,1/6/2023 8:20,Splay
+2842,2,1/6/2023 9:43,Splay
+2842,2,1/6/2023 9:43,Splay
+2842,5,1/6/2023 16:23,Splay
+2842,9,1/6/2023 16:37,Splay
+2842,1,1/6/2023 17:28,Splay
+2842,1,1/6/2023 17:30,Splay
+2842,1,1/9/2023 6:15,Splay
+2842,1,1/9/2023 6:15,Splay
+2842,1,1/9/2023 7:41,Splay
+2842,1,1/9/2023 7:41,Splay
+2842,1,1/9/2023 11:07,Splay
+2842,1,1/9/2023 11:14,Splay
+2842,1,1/9/2023 13:20,Splay
+2842,1,1/9/2023 13:20,Splay
+2842,1,1/18/2023 3:38,Splay
+2842,1,1/18/2023 3:38,Splay
+2842,1,1/18/2023 3:39,Splay
+2842,1,1/18/2023 3:39,Splay
+2842,1,1/18/2023 10:45,Splay
+2842,1,1/20/2023 4:06,Splay
+2842,1,1/20/2023 5:53,Splay
+2842,2,1/20/2023 6:07,Splay
+2842,1,1/20/2023 6:18,Splay
+2842,1,1/20/2023 6:21,Splay
+2842,5,1/20/2023 19:41,Splay
+2842,1,1/25/2023 5:33,Splay
+2842,1,1/26/2023 12:56,Splay
+2842,1,1/26/2023 12:56,Splay
+2842,1,1/26/2023 13:16,Splay
+2842,3,1/4/2023 17:33,Dents/scratches
+2842,1,1/4/2023 17:33,Dents/scratches
+2842,2,1/4/2023 17:58,Dents/scratches
+2842,1,1/4/2023 17:58,Dents/scratches
+2842,1,1/6/2023 17:25,Dents/scratches
+2842,1,1/7/2023 0:40,Dents/scratches
+2842,1,1/7/2023 0:40,Dents/scratches
+2842,1,1/9/2023 7:14,Dents/scratches
+2842,1,1/9/2023 7:14,Dents/scratches
+2842,1,1/9/2023 11:02,Dents/scratches
+2842,1,1/9/2023 11:02,Dents/scratches
+2842,1,1/9/2023 18:03,Dents/scratches
+2842,1,1/9/2023 18:03,Dents/scratches
+2842,1,1/13/2023 6:42,Dents/scratches
+2842,1,1/13/2023 6:42,Dents/scratches
+2842,1,1/13/2023 9:23,Dents/scratches
+2842,1,1/16/2023 9:51,Dents/scratches
+2842,1,1/16/2023 9:51,Dents/scratches
+2842,1,1/16/2023 10:15,Dents/scratches
+2842,1,1/16/2023 10:15,Dents/scratches
+2842,1,1/16/2023 10:39,Dents/scratches
+2842,1,1/16/2023 10:39,Dents/scratches
+2842,1,1/16/2023 22:48,Dents/scratches
+2842,1,1/16/2023 22:55,Dents/scratches
+2842,1,1/16/2023 23:17,Dents/scratches
+2842,8,1/17/2023 3:12,Dents/scratches
+2842,1,1/17/2023 3:46,Dents/scratches
+2842,1,1/17/2023 3:46,Dents/scratches
+2842,1,1/17/2023 15:48,Dents/scratches
+2842,1,1/20/2023 23:34,Dents/scratches
+2842,1,1/21/2023 0:47,Dents/scratches
+2842,1,1/23/2023 5:27,Dents/scratches
+2842,3,1/23/2023 6:39,Dents/scratches
+2842,2,1/23/2023 6:57,Dents/scratches
+2842,2,1/23/2023 7:30,Dents/scratches
+2842,1,1/23/2023 8:36,Dents/scratches
+2842,1,1/23/2023 9:10,Dents/scratches
+2842,1,1/23/2023 9:19,Dents/scratches
+2842,1,1/23/2023 10:19,Dents/scratches
+2842,1,1/23/2023 10:29,Dents/scratches
+2842,1,1/23/2023 10:40,Dents/scratches
+2842,1,1/23/2023 11:36,Dents/scratches
+2842,1,1/23/2023 11:59,Dents/scratches
+2842,1,1/23/2023 12:10,Dents/scratches
+2842,1,1/23/2023 12:22,Dents/scratches
+2842,1,1/23/2023 12:49,Dents/scratches
+2842,1,1/23/2023 13:01,Dents/scratches
+2842,1,1/23/2023 13:13,Dents/scratches
+2842,1,1/23/2023 13:25,Dents/scratches
+2842,1,1/23/2023 13:41,Dents/scratches
+2842,1,1/23/2023 13:52,Dents/scratches
+2842,1,1/23/2023 14:17,Dents/scratches
+2842,1,1/23/2023 14:43,Dents/scratches
+2842,1,1/23/2023 14:55,Dents/scratches
+2842,1,1/23/2023 15:07,Dents/scratches
+2842,2,1/24/2023 4:31,Dents/scratches
+2842,1,1/26/2023 13:48,Dents/scratches
+2842,1,1/26/2023 16:40,Dents/scratches
+2842,1,1/27/2023 4:54,Dents/scratches
+2842,1,1/27/2023 4:54,Dents/scratches
+2842,2,1/27/2023 12:58,Dents/scratches
+2842,2,1/27/2023 12:58,Dents/scratches
+2842,1,1/27/2023 12:58,Dents/scratches
+2842,6,1/27/2023 14:50,Dents/scratches
+2842,5,1/27/2023 15:44,Dents/scratches
+2842,2,1/30/2023 9:33,Dents/scratches
+2842,1,1/31/2023 5:24,Dents/scratches
+2842,1,1/31/2023 5:25,Dents/scratches
+2842,1,1/31/2023 5:40,Dents/scratches
+2842,2,1/31/2023 6:41,Dents/scratches
+2842,1,1/6/2023 7:36,Glue
+2842,1,1/6/2023 7:36,Glue
+2842,1,1/12/2023 22:45,Glue
+2842,1,1/12/2023 22:45,Glue
+2842,1,1/13/2023 22:03,Glue
+2842,1,1/6/2023 9:14,Dirt/grease
+2842,1,1/6/2023 9:14,Dirt/grease
+2842,1,1/20/2023 21:01,Dirt/grease
+2842,1,1/20/2023 21:02,Dirt/grease
+2842,1,1/20/2023 21:04,Dirt/grease
+2842,1,1/9/2023 5:59,Startup Scrap (RD)
+2842,1,1/9/2023 5:59,Startup Scrap (RD)
+2842,1,1/9/2023 11:07,Startup Scrap (RD)
+2842,1,1/9/2023 11:07,Startup Scrap (RD)
+2842,1,1/18/2023 3:36,Startup Scrap (RD)
+2842,1,1/18/2023 3:36,Startup Scrap (RD)
+2842,1,1/18/2023 5:51,Startup Scrap (RD)
+2842,1,1/18/2023 5:51,Startup Scrap (RD)
+2842,3,1/20/2023 18:23,Startup Scrap (RD)
+2842,1,1/26/2023 13:00,Startup Scrap (RD)
+2962,2,1/5/2023 7:50,Startup Scrap (RD)
+2962,3,1/5/2023 7:50,Startup Scrap (RD)
+2842,1,1/9/2023 11:11,Gate blush
+2842,2,1/12/2023 18:07,Robot/Press Dropped
+2842,1,1/12/2023 22:31,Robot/Press Dropped
+2842,1,1/12/2023 22:31,Robot/Press Dropped
+2842,12,1/16/2023 22:18,Robot/Press Dropped
+2842,12,1/16/2023 22:18,Robot/Press Dropped
+2842,1,1/16/2023 23:14,Robot/Press Dropped
+2842,1,1/16/2023 23:14,Robot/Press Dropped
+2842,1,1/16/2023 23:18,Robot/Press Dropped
+2842,1,1/16/2023 23:18,Robot/Press Dropped
+2842,2,1/16/2023 23:21,Robot/Press Dropped
+2842,2,1/16/2023 23:21,Robot/Press Dropped
+2842,1,1/16/2023 23:24,Robot/Press Dropped
+2842,1,1/16/2023 23:24,Robot/Press Dropped
+2842,1,1/16/2023 23:28,Robot/Press Dropped
+2842,1,1/16/2023 23:28,Robot/Press Dropped
+2842,1,1/16/2023 23:29,Robot/Press Dropped
+2842,1,1/16/2023 23:29,Robot/Press Dropped
+2842,1,1/16/2023 23:58,Robot/Press Dropped
+2842,2,1/17/2023 0:04,Robot/Press Dropped
+2842,1,1/17/2023 0:04,Robot/Press Dropped
+2842,3,1/17/2023 0:07,Robot/Press Dropped
+2842,1,1/17/2023 0:08,Robot/Press Dropped
+2842,1,1/17/2023 0:09,Robot/Press Dropped
+2842,1,1/17/2023 0:10,Robot/Press Dropped
+2842,1,1/17/2023 0:11,Robot/Press Dropped
+2842,2,1/17/2023 0:12,Robot/Press Dropped
+2842,1,1/17/2023 0:13,Robot/Press Dropped
+2842,1,1/17/2023 0:14,Robot/Press Dropped
+2842,1,1/17/2023 0:14,Robot/Press Dropped
+2842,1,1/17/2023 0:14,Robot/Press Dropped
+2842,1,1/17/2023 0:15,Robot/Press Dropped
+2842,1,1/17/2023 0:45,Robot/Press Dropped
+2842,1,1/17/2023 0:45,Robot/Press Dropped
+2842,1,1/17/2023 1:01,Robot/Press Dropped
+2842,1,1/17/2023 1:01,Robot/Press Dropped
+2842,1,1/17/2023 1:02,Robot/Press Dropped
+2842,1,1/17/2023 1:02,Robot/Press Dropped
+2842,1,1/17/2023 1:03,Robot/Press Dropped
+2842,1,1/17/2023 1:03,Robot/Press Dropped
+2842,1,1/17/2023 1:04,Robot/Press Dropped
+2842,1,1/17/2023 1:04,Robot/Press Dropped
+2842,1,1/17/2023 3:41,Robot/Press Dropped
+2842,1,1/17/2023 3:44,Robot/Press Dropped
+2842,2,1/17/2023 3:44,Robot/Press Dropped
+2842,1,1/17/2023 4:13,Robot/Press Dropped
+2842,1,1/17/2023 4:13,Robot/Press Dropped
+2842,1,1/17/2023 4:14,Robot/Press Dropped
+2842,2,1/17/2023 4:16,Robot/Press Dropped
+2842,2,1/17/2023 4:18,Robot/Press Dropped
+2842,2,1/17/2023 4:18,Robot/Press Dropped
+2842,2,1/17/2023 10:16,Robot/Press Dropped
+2842,2,1/17/2023 10:16,Robot/Press Dropped
+2842,1,1/26/2023 13:00,Robot/Press Dropped
+2842,1,1/26/2023 13:03,Robot/Press Dropped
+2842,1,1/26/2023 13:03,Robot/Press Dropped
+2842,1,1/27/2023 17:26,Robot/Press Dropped
+2842,1,1/27/2023 17:26,Robot/Press Dropped
+2842,1,1/27/2023 19:28,Robot/Press Dropped
+2842,1,1/27/2023 19:29,Robot/Press Dropped
+2842,1,1/16/2023 7:35,Pin marks/read thru
+2842,1,1/16/2023 7:36,Pin marks/read thru
+2842,1,1/17/2023 13:43,QC parts(1st/last off)
+2842,1,1/20/2023 2:05,QC parts(1st/last off)
+2842,1,1/20/2023 2:36,QC parts(1st/last off)
+2842,1,1/23/2023 15:31,QC parts(1st/last off)
+2842,1,1/23/2023 18:44,QC parts(1st/last off)
+2842,1,1/25/2023 17:55,QC parts(1st/last off)
+2842,1,1/25/2023 17:55,QC parts(1st/last off)
+2842,1,1/30/2023 9:44,QC parts(1st/last off)
+2842,1,1/31/2023 1:26,QC parts(1st/last off)
+2842,1,1/31/2023 5:09,QC parts(1st/last off)
+2842,1,1/20/2023 3:34,Ripples/sinks
+2842,40,1/20/2023 19:13,Ripples/sinks
+2842,3,1/20/2023 5:25,Flash/mold hair
+2842,2,1/31/2023 4:36,Flash/mold hair
+2842,4,1/31/2023 4:43,Flash/mold hair
+2842,1,1/31/2023 4:44,Flash/mold hair
+2842,1,1/31/2023 4:45,Flash/mold hair
+2842,2,1/31/2023 4:47,Flash/mold hair
+2842,1,1/20/2023 5:33,Material impurities
+2842,1,1/21/2023 2:27,Cold slugs
+2842,1,1/24/2023 20:19,Cold slugs
+2842,1,1/25/2023 18:07,Poor trimming
+2842,1,1/25/2023 18:07,Poor trimming
+2842,1,1/27/2023 19:35,Breakage/cracking
